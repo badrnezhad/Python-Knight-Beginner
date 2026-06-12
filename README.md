@@ -47,11 +47,11 @@ Each project focuses on a specific programming concept and is accompanied by a c
 
 | Project | Source Code | YouTube Tutorial |
 |----------|------------|------------------|
-| Project 01 | [Project-01.py](./Project-01.py) | [Watch Video](https://youtube.com/watch?v=VIDEO_ID_01) |
-| Project 02 | [Project-02.py](./Project-02.py) | [Watch Video](https://youtube.com/watch?v=VIDEO_ID_02) |
-| Project 03 | [Project-03.py](./Project-03.py) | [Watch Video](https://youtube.com/watch?v=VIDEO_ID_03) |
-| Project 04 | [Project-04.py](./Project-04.py) | [Watch Video](https://youtube.com/watch?v=VIDEO_ID_04) |
-| Project 05 | [Project-05.py](./Project-05.py) | [Watch Video](https://youtube.com/watch?v=VIDEO_ID_05) |
+| Project 01 | [Project-01.py](./Project-01.py) | [Watch Video](https://youtu.be/RhnO5Oo6LLA?si=-DI8YkvZ-Jf4TrxO&t=2967) |
+| Project 02 | [Project-02.py](./Project-02.py) | [Watch Video](https://youtu.be/bHcMBEA_JJY?si=LzlJmKb66jSit8oY&t=1252) |
+| Project 03 | [Project-03.py](./Project-03.py) | [Watch Video](https://youtu.be/bHcMBEA_JJY?si=7__aFmvy7Y9i_L-J&t=2237) |
+| Project 04 | [Project-04.py](./Project-04.py) | [Watch Video](https://youtu.be/bHcMBEA_JJY?si=VMFbvtJkxrYmY-9s&t=3363) |
+| Project 05 | [Project-05.py](./Project-05.py) | [Watch Video](https://youtu.be/bHcMBEA_JJY?si=RRJWyWN4fzcaS1V7&t=3498) |
 | Project 06 | [Project-06.py](./Project-06.py) | [Watch Video](https://youtube.com/watch?v=VIDEO_ID_06) |
 | Project 07 | [Project-07.py](./Project-07.py) | [Watch Video](https://youtube.com/watch?v=VIDEO_ID_07) |
 | Project 08 | [Project-08.py](./Project-08.py) | [Watch Video](https://youtube.com/watch?v=VIDEO_ID_08) |
@@ -101,7 +101,7 @@ Start from Project 01 and continue sequentially. The projects are intentionally 
 
 You can also watch the complete project series here:
 
-**▶️ YouTube playlist link**
+**▶️ [Python Knight Beginner Course](https://www.youtube.com/watch?v=In7eTmbRzVQ&list=PLA6cbkOi3aAIDKC5Dzb_xs_aNmJ5iQII8)**
 
 ---
 
